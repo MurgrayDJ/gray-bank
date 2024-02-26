@@ -1,8 +1,8 @@
-graybank/HELP.md
-graybank/target/
-!.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
+/graybank/HELP.md
+/graybank/target/
+/graybank/.mvn/wrapper/maven-wrapper.jar
+/graybank/**/src/main/**/target/
+/graybank/**/src/test/**/target/
 
 ### VS Code ###
 .vscode/
